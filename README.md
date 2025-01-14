@@ -1,2 +1,2 @@
 # TKD
-The released code of TKD
+The released dataset of TKD
